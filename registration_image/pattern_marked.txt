@@ -5,28 +5,4 @@
 [ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load opencv_core_parallel_tbb452_64d.dll => FAILED
 [ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load C:\Program Files\opencv\build\x64\vc15\bin\opencv_core_parallel_openmp452_64d.dll => FAILED
 [ INFO:0] global c:\build\master_winpack-build-win64-vc15\opencv\modules\core\src\utils\plugin_loader.impl.hpp (67) cv::plugin::impl::DynamicLib::libraryLoad load opencv_core_parallel_openmp452_64d.dll => FAILED
-matrix_coordinate:225 sub-pixel_coordinate:906.843 361.115
-matrix_coordinate:226 sub-pixel_coordinate:940.104 361.419
-matrix_coordinate:228 sub-pixel_coordinate:1006.971 361.960
-matrix_coordinate:229 sub-pixel_coordinate:1040.174 362.110
-matrix_coordinate:230 sub-pixel_coordinate:1073.805 362.441
-matrix_coordinate:227 sub-pixel_coordinate:973.512 361.712
-matrix_coordinate:210 sub-pixel_coordinate:906.962 391.171
-matrix_coordinate:211 sub-pixel_coordinate:940.006 391.475
-matrix_coordinate:212 sub-pixel_coordinate:973.137 391.724
-matrix_coordinate:213 sub-pixel_coordinate:1006.291 391.861
-matrix_coordinate:214 sub-pixel_coordinate:1039.310 392.166
-matrix_coordinate:215 sub-pixel_coordinate:1072.577 392.480
-matrix_coordinate:195 sub-pixel_coordinate:907.219 416.680
-matrix_coordinate:196 sub-pixel_coordinate:939.904 416.915
-matrix_coordinate:197 sub-pixel_coordinate:972.727 417.009
-matrix_coordinate:198 sub-pixel_coordinate:1005.447 417.362
-matrix_coordinate:199 sub-pixel_coordinate:1038.307 417.604
-matrix_coordinate:200 sub-pixel_coordinate:1071.126 417.802
-matrix_coordinate:180 sub-pixel_coordinate:907.530 435.638
-matrix_coordinate:181 sub-pixel_coordinate:939.919 435.745
-matrix_coordinate:182 sub-pixel_coordinate:972.135 435.925
-matrix_coordinate:183 sub-pixel_coordinate:1004.611 436.000
-matrix_coordinate:184 sub-pixel_coordinate:1036.927 436.215
-matrix_coordinate:185 sub-pixel_coordinate:1069.456 436.261
-E:\PKU-RoboticFish\self_identifying_markers_sfm_demo\registration_image\group1\20.bmpprocessed!
+E:\PKU-RoboticFish\self_identifying_markers_sfm_demo\registration_image\pattern_marked.jpgprocessed!

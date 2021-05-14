@@ -33,7 +33,7 @@ end
 
 %% 特征点序号可视化
 
-% img_idx = 5;
+% img_idx = 224;
 % img = imread(strcat(img_location,num2str(img_idx,'%.2d'),'.bmp'));
 % img = insertText(img, points{img_idx-idx_bias}(:,2:3), points{img_idx-idx_bias}(:,1),'FontSize',8);
 % img = insertMarker(img, points{img_idx-idx_bias}(:,2:3), 'o', 'Color', 'red', 'Size', 5);
